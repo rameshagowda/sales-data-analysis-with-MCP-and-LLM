@@ -1,1 +1,1 @@
-# sales-data-analysis-with-MCP-and-LLM
+# Sales-data-analysis-with-MCP-and-LLM
