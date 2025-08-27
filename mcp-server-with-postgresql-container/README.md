@@ -22,8 +22,6 @@ DATABASE_URL=postgresql://sales_user:<your password>@localhost:5432/sales_produc
 
 psql -h localhost -p 5432 -U sales_user -d sales_production
 
-touch PostgresQL-Container/.gitignore
-
 PYTHONPATH=PostgresQL-Container
 
 # create src folder
