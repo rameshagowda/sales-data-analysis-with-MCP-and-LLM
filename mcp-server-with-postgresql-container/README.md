@@ -1,11 +1,11 @@
-# 1. Setup Project
+# Setup Project
 
 cd mcp-server-with-postgresql-container
 uv init PostgresQL-Container
 uv venv
 source .venv/bin/activate
 
-# 1. Make sure postgresQL is running in docker container and # Store the connection string in .env
+# Make sure postgresQL is running in docker container and # Store the connection string in .env
 
 touch PostgresQL-Container/.env
 
